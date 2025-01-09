@@ -1,5 +1,6 @@
 foreground=#00ff00
 background=#000000
+#background=#002000
 cursor=#00ff00
 
 color0=#000000

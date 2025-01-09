@@ -4,11 +4,11 @@
 
 foreground=#00BFFF
 cursor=#00BFFF
-#background=#000000
-background=#001820
+background=#000000
+#background=#001820
 
-color0=#001820
-#color0=#000000
+#color0=#001820
+color0=#000000
 color1=#00baf8
 color2=#1dc7ff
 color3=#41d0ff

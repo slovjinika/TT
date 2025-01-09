@@ -3,7 +3,8 @@ foreground=#ffd700
 cursor=#ffd700
 background=#201b00
 
-color0=#000000
+#color0=#000000
+color0=#201b00
 color1=#f8d100
 color2=#ffdc1d
 color3=#ffe141

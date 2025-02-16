@@ -1,6 +1,7 @@
-#/usr/share/xfce4/terminal/colorschemes
-[Configuration]
-ColorCursor=#0000bfbfffff
+[Scheme]
+Name=TT-01-Blue
+                                                                                                                               ColorCursor=#0000bfbfffff
 ColorForeground=#0000bfbfffff
 ColorBackground=#000000000000
-ColorPalette=#000000000000;#0000babaf8f8;#1d1dc7c7ffff;#4141d0d0ffff;#00009c9cd0d0;#0000aeaee8e8;#0d0dc3c3ffff;#7373dcdcffff;#00007b7ba4a4;#0000babaf8f8;#1d1dc7c7ffff;#4141d0d0ffff;#00009c9cd0d0;#0000aeaee8e8;#0d0dc3c3ffff;#efeffbfbffff
+ColorPalette=#000000000000;#0000babaf8f8;#1d1dc7c7ffff;#4141d0d0ffff;#00009c9cd0d0;#0000aeaee8e8;#0d0dc3c3ffff;#7373dcdcffff;#0
+0007b7ba4a4;#0000babaf8f8;#1d1dc7c7ffff;#4141d0d0ffff;#00009c9cd0d0;#0000aeaee8e8;#0d0dc3c3ffff;#efeffbfbffff
